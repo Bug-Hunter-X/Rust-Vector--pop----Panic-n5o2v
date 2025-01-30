@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust when working with vectors: using the `pop()` method on an empty vector. The provided code will panic at runtime if the vector is empty. The solution demonstrates how to safely handle this scenario using pattern matching and optional values.
